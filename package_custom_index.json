@@ -1,0 +1,24 @@
+{ 
+    "packages": [ 
+        { 
+            "name": "wickon_hightech", 
+            "maintainer": "Your Name", 
+            "websiteURL": "https://yourwebsite.com", 
+            "platforms": [ 
+                { 
+                    "name": "Custom ATSAM8x3 Board", 
+                    "architecture": "sam", 
+                    "version": "0.0.2", 
+                    "category": "Arduino Compatible", 
+                    "url": "http://yourserver.com/custom_board.zip", 
+                    "checksum": "SHA-256:93e9c5ef053e44d163710e1a3be7c1497cf32c0ac05cca1ccb8c1784c756af06", 
+                    "size": "11908", 
+                    "boards": [ 
+                        { "name": "My Custom ATSAM8x3 Board" } 
+                    ], 
+                    "toolsDependencies": [] 
+                } 
+            ] 
+        } 
+    ] 
+} 

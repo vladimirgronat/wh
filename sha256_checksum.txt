@@ -1,0 +1,3 @@
+SHA256 hash of c:\wision\CSharpSource\Plugins\AOI\Wision.Plugin.AOI.WickonLabL1001\MicroPlc-board\wickon_plc.zip:
+93e9c5ef053e44d163710e1a3be7c1497cf32c0ac05cca1ccb8c1784c756af06
+CertUtil: -hashfile command completed successfully.
